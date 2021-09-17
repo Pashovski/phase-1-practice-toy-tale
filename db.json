@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Rex2",
+      "likes": 0,
+      "image": "https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/6101047622890?fmt=webp&qlt=90&wid=652&hei=652",
+      "id": 9
     }
   ]
 }
